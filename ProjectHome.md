@@ -1,0 +1,1 @@
+This multi-dimensional Array Class, based on a MemoryBlock, can import from and export to a FolderItem. Works with all kinds of Integers – (U)Int32/64 – Singles, and Doubles.
